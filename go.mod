@@ -1,4 +1,4 @@
-module github.com/odinprince/todo-app
+module github.com/odinprince/Todo-CLI
 
 go 1.23.1
 
